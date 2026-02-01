@@ -3,4 +3,4 @@ This optimizer runs necessary optimizations that improve performnce in video gam
 Remeber to run this occasionally for best effect.
 
 How to download you may ask?
-Easy, go into the windows_optimizations file right next to the read me, and download the raw file! 
+Easy, go into the "optimize_windows.bat" file right next to the read me, and download the raw file! 
